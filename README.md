@@ -1,13 +1,14 @@
-# Landing Page Project
+# Color Landing Page Project
+## Description
+Color Landing Page is a page to learn about colorimetry, it also has a multi-section landing page, with a navigation menu that dynamically updates based on the amount of content that is added to the mobile-friendly page, website with a responsive system,
+HTML5 editor, JavaScript and CSS3.
+## Use
+Color Landing Page is a page to learn about colorimetry with their respective sections divided according to their typology.
 
-## Table of Contents
+## License
+MIT
 
-* [Instructions](#instructions)
+And of course Color Landing Page contains a [repository][dill] on GitHub.
 
-## Instructions
-
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
-
-To get started, open `js/app.js` and start building out the app's functionality
-
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+   [google fonts]: <https://fonts.googleapis.com>
+  
