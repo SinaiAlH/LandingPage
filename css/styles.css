@@ -40,6 +40,13 @@ h2 {
     color: #fff;
 }
 
+h3 {
+    
+    font-family: 'Oxygen', Sans-Serif;
+    font-size: 2em;
+    color: #fff;
+}
+
 p {
     line-height: 1.6em;
     color: #eee;
@@ -103,13 +110,13 @@ section {
 
 /* Footer Styles */
 .page__footer {
-    background: #000;
+    background: #FFF;
     padding: 3em;
-    color: #fff;
+    color: #000;
 }
 
 .page__footer p{
-    color: #fff;
+    color: #000;
 }
 
 
